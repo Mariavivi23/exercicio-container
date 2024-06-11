@@ -1,0 +1,2 @@
+CONTAINER ID   IMAGE          COMMAND              CREATED          STATUS          PORTS                               NAMES
+b029198fb07d   httpd:latest   "httpd-foreground"   18 minutes ago   Up 18 minutes   0.0.0.0:80->80/tcp, :::80->80/tcp   apache
